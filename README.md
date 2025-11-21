@@ -74,3 +74,5 @@ Dashboard automation using APIs
 🤝 Contributions
 
 Feel free to fork, raise issues, or submit pull requests to improve this project.
+
+<img width="1177" height="652" alt="Agriculture Sector Analysis Dashboard" src="https://github.com/user-attachments/assets/e30c959e-c131-4e5b-b909-40e04cd08970" />
